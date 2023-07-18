@@ -1,0 +1,166 @@
+when you nudge the inputs in the direction of the gradients we expect a less negative output...
+
+dL/db = (dL/da) * ( db/da)
+if a car goes 4 times as fast as a bike and a bike is twice as fast a runner, the car is 8times faster than a runner
+4*2
+
+activtion functions is applied to the dot products of the weights and inputs
+weights are the synaptic strengths of the neuron
+
+we're back propagating wrt the accuracy and trying to minimize that
+
+a plus sign is a distributor of gradient, the gradient flows to each + input because the local derivative is =1
+ 
+"2023-02-17 playing olaf vs renekton top - "I don't even activate my brain because I'm pre-tilted."
+
+right/left censorship bias integrated into openai
+
+
+ban: swain, akali, diana, talon
+
+ban: rengar, shaco, twitch
+
+
+create bigrams, 2 characters in a row, next character only cares about previous character..
+want to add special characters to each name so that the first and last letters are known
+
+create unique but name sounding word
+
+bigram character level language model
+
+
+xenc is made up of 1 hot vectors
+
+we currently have probabilities as the outputs... 27 numbers are possible and they are all very low %s (0.02, 0.001, etc)
+the likelihood is a product of all the probabilities (really small number) (probability of the entire data set assigned by the model trained)
+log grows more an more negative as it approaches 0 and if you pass in 1 you get 0.
+
+
+a*b*c
+log(a*b*c) = log(a)+log(b)+log(c)
+
+A = [3, 1, 4]
+B = [[4,3],[2,5],[6,8]]
+A=1x3
+B=2,3
+# of columns in 1st matrix has to equal number of rows in second.
+
+
+[32,6] * [6,100] = [32,100] **THE 6s MATCH SO WE CAN MULTIPLY**
+
+0.9 ----0 -----0----- 0              0.85
+0.07---0.93----0 -----0    ****      0.10
+0.02---0 ----0.85---0.15             0.05
+0.01---0-----0-------1.0             0.0
+
+
+pathfinding algorithm visualizer
+AI based project
+live webcam detection/facial recognition
+web socket chat program
+create your own API/webservice?
+create openai chrome extension to: write an email, reply to an email
+
+todo:
+deploy a flask app to a linux server, flask stuff with pp.net
+
+-get API key, store in local storage
+
+-make copy function work
+-give 2 Ai icons (professionalize, respond with yes or no)
+-get highlighted text from content script as selected text.
+
+
+TO DO:
+-copy to clipboard.
+-pop up runs only when shown (cant set prompt while popup closed)
+-need to set functionality on 2nd button.
+***what we could do have 2 functionalities in popup, and gmail functionality. (document.activeElement)
+(popup)
+TLDR
+Q&
+(in browser) (g_editable) OR contenteditable="true"//keydown is fired on the element that can receieve keyboard input
+Professionalize.
+Response
+
+new web accesible resource - put js file, you can load a myfile.js as if it was loaded from the webpage.
+---integrate video API
+
+
+
+To do:
+neural network from scratch??
+integrate youtube video into gradio
+flask + react site.
+build socket.io chat
+built crypto trading bot/scrolling banner?
+typewriter effect on 1 screen
+technology balls? best way to display?
+
+create react app -> npm create vite@latest ./ -- --template react
+tailwind css
+3js code in a react fashion?
+
+TO DO:
+website
+--change sections around? look for more tech to add - figure out the side block
+
+update thera.py 
+--build front end?
+--pole D-ID GET request until result_url available (chat gpt has the code)
+
+next projects?
+-uniswap info page for diff pairings (websockets??)/flask backend?/nodeJS/graphQL/
+-for perhaps python websocket trading bot?
+-some sort of rust microservice? crypto payments?
+-kotlin app.
+-LEET CODING
+-websocket chats
+-proof of concept: custom chatGPT - for internal docs/podcasts/videos/etc
+2880x2048 for project pictures.
+
+-traffic monitoring flow/accidnets/construction
+-financial data feeds.
+
+
+TO DO:
+Build Thera.py front end,
+clean up custom GPT application,
+maybe data streaming interface?
+
+--database backend
+--send bloburl to backend
+--python transforms
+--asyncio code?
+--voices only.
+--freetherapy.gg GPTtherapy.gg
+ 
+
+
+BD group key exchange protocol
+
+
+read incoming data in chunks and process each chunk as it comes in.
+
+
+TO BUILD:
+spotify clone
+crypto portfolio tracker w/ rust APIs (buy/sell amounts in tracker) 
+
+GPTtherapy - switch host name, get premium presenter, look into streaming presenter/multithreading users..
+
+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 -  google oauth
+
+REACT_APP_GOOGLE_CLIENT_ID = 788213941665-fabqp3a5u6kt8sub1f9vpj6uhbknk22c.apps.googleusercontent.com
+
+
+dashboard
+spotlight
+portfolios
+watchlis
+News Stream
+NFTs
+DEX/Conversion
+Calendar?Events?
+
+look at video player, 7:30:00 for genre discover..
